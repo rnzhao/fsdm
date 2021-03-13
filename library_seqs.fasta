@@ -1,0 +1,208 @@
+>bc1 1
+AGCAAT
+>bc1 2
+CCTGTT
+>bc1 3
+GGGTTT
+>bc1 4
+GAAGGC
+>bc1 5
+ATCTCA
+>bc1 6
+ATGGAT
+>bc1 7
+ATGTCT
+>bc1 8
+CGTGAC
+>bc1 9
+TTAGGT
+>bc1 10
+GTGCAT
+>bc1 11
+AACTTT
+>bc1 12
+GGATCG
+>bc1 13
+ATAAGG
+>bc1 14
+ATTGGT
+>bc1 15
+AGTGAG
+>bc1 16
+CCCACC
+>bc1 17
+CGATGC
+>bc1 18
+GATAGC
+>bc1 19
+GTCAGA
+>bc1 20
+TTAAGC
+>bc1 21
+AACCTG
+>bc1 22
+CTTTGC
+>bc1 23
+TGGAGA
+>bc1 24
+AATTGT
+>bc1 25
+TGACGA
+>bc1 26
+CAAATA
+>bc1 27
+GTTCAG
+>bc1 28
+CTTCAA
+>bc1 29
+GTTGGG
+>bc1 30
+GCTTAG
+>bc1 31
+TAGCCA
+>bc1 32
+TAACTT
+>bc1 33
+CGGATA
+>bc1 34
+CAGCAG
+>bc1 35
+AAGTAG
+>bc1 36
+GGGACG
+>bc1 37
+CCGTGG
+>bc1 38
+ATTGTA
+>bc1 39
+TTTAGA
+>bc1 40
+CCACGA
+>bc1 41
+TCATGG
+>bc1 42
+GAACCA
+>bc1 43
+TCCTAA
+>bc1 44
+CAACGC
+>bc1 45
+AGTGTT
+>bc1 46
+GGATTA
+>bc1 47
+TATATA
+>bc1 48
+GTACAA
+>bc2 1
+AGCAAT
+>bc2 2
+CCTGTT
+>bc2 3
+GGGTTT
+>bc2 4
+GAAGGC
+>bc2 5
+ATCTCA
+>bc2 6
+ATGGAT
+>bc2 7
+ATGTCT
+>bc2 8
+CGTGAC
+>bc2 9
+TTAGGT
+>bc2 10
+GTGCAT
+>bc2 11
+AACTTT
+>bc2 12
+GGATCG
+>bc2 13
+ATAAGG
+>bc2 14
+ATTGGT
+>bc2 15
+AGTGAG
+>bc2 16
+CCCACC
+>bc2 17
+CGATGC
+>bc2 18
+GATAGC
+>bc2 19
+GTCAGA
+>bc2 20
+TTAAGC
+>bc2 21
+AACCTG
+>bc2 22
+CTTTGC
+>bc2 23
+TGGAGA
+>bc2 24
+AATTGT
+>bc2 25
+TGACGA
+>bc2 26
+CAAATA
+>bc2 27
+GTTCAG
+>bc2 28
+CTTCAA
+>bc2 29
+GTTGGG
+>bc2 30
+GCTTAG
+>bc2 31
+TAGCCA
+>bc2 32
+TAACTT
+>bc2 33
+CGGATA
+>bc2 34
+CAGCAG
+>bc2 35
+AAGTAG
+>bc2 36
+GGGACG
+>bc2 37
+CCGTGG
+>bc2 38
+ATTGTA
+>bc2 39
+TTTAGA
+>bc2 40
+CCACGA
+>bc2 41
+TCATGG
+>bc2 42
+GAACCA
+>bc2 43
+TCCTAA
+>bc2 44
+CAACGC
+>bc2 45
+AGTGTT
+>bc2 46
+GGATTA
+>bc2 47
+TATATA
+>bc2 48
+GTACAA
+>prototype1
+bc1|adapter1|flanking1|allele|flanking2
+>prototype2
+bc2|adapter2
+>adapter1
+GTAAAACGACGGCCAGT
+>adapter2
+CTAGAGAACCCACTGCTTAC
+>flanking1
+NNNNNNNNNN
+>flanking2
+NNNNNNNNNN
+>allele FirstAlleleName
+N
+>allele NextAlleleName
+N
